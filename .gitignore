@@ -1,0 +1,14 @@
+.m2
+.idea
+target
+**/*/compat_reports
+**/*/tmp
+*.iml
+*.ipr
+*.log
+
+*.jar
+*.war
+*.zip
+*.tar.gz
+/report
